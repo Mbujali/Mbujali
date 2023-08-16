@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </div>
 <h2 align="center">Mbulelo Jali</h2>
 <h4>About Me</h4>
-<p>-Fullstack developer</p>
+<p>Software developer</p>
