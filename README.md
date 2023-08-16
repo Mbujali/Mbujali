@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn_badge"/>
   </a>
   <a href="https://giphy.com/gifs/2ikwIgNrmPZICNmRyX">via GIPHY
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="website_badge"/>
+    <img src=https://giphy.com/gifs/2ikwIgNrmPZICNmRyX" alt="website_badge"/>
   </a>
 </div>
 
