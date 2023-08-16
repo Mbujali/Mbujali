@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47if0wr26ewe3uik301wvl3mzljoa2fhe548tv24x8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
-<div id="links">
+<div id="links" align="center">
   <a href="www.linkedin.com/in/mbulelo-jali-30340">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn_badge"/>
   </a>
