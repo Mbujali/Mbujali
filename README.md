@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/mbulelo-jali-30340">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn_badge"/>
   </a>
-  <a href="https://giphy.com/gifs/2ikwIgNrmPZICNmRyX">via GIPHY
-    <img src=https://giphy.com/gifs/2ikwIgNrmPZICNmRyX" alt="website_badge"/>
+  <a href="https://giphy.com/gifs/2ikwIgNrmPZICNmRyX">
+    <img src="https://giphy.com/gifs/2ikwIgNrmPZICNmRyX" alt="website_badge"/>
   </a>
 </div>
 
