@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 </div>
 <h2 align="center">Mbulelo Jali</h2>
 About Me
+-Fullstack developer
