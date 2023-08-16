@@ -20,5 +20,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn_badge"/>
   </a>
 </div>
-<h2>Mbulelo Jali</h2>
+<h2 align="center">Mbulelo Jali</h2>
 
